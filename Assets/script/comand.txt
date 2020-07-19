@@ -1,0 +1,4 @@
+public Sprite mySprite;
+     
+gameObject.GetComponent<SpriteRenderer>().sprite = mySprite;
+inicio.ags.afg(1);
